@@ -1,3 +1,3 @@
-# Image_Zoom_Hover_Effect
+# Image zoom hover effect
 
-https://viktoriya-druzhkova.github.io/Image_Zoom_Hover_Effect/
+<a href='https://druzhkova.github.io/Image-zoom-hover-effect/'>Watch here</a>
